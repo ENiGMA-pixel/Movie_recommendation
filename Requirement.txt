@@ -1,5 +1,6 @@
 # Movie_recommendation
 
+python==3.10.12
 pandas==0.23.3
 numpy==1.14.5
 scipy==1.1.0
